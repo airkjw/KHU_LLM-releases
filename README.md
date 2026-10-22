@@ -23,9 +23,9 @@
 
 | 운영체제 | 파일 |
 | --- | --- |
-| macOS Apple Silicon | `KHU_LLM-<버전>-arm64.dmg` |
-| macOS Intel | `KHU_LLM-<버전>.dmg` |
-| Windows x64 | `KHU_LLM-<버전>-x64-Setup.exe` |
+| macOS Apple Silicon | `ChatKHU-Desktop-<버전>-arm64.dmg` |
+| macOS Intel | `ChatKHU-Desktop-<버전>-x64.dmg` |
+| Windows x64 | `ChatKHU-Desktop-<버전>-x64-Setup.exe` |
 
 - `.zip`·`.blockmap`·`.yml` 파일은 자동 업데이트용이라 받을 필요가 없습니다.
 - macOS 앱은 Developer ID 서명과 Apple 공증을 거칩니다.
